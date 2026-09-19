@@ -1,150 +1,39 @@
-# 👋 Ander - Founder & Full-Stack Developer
-🚀 Building products that matter
-💡 EdTech × E-commerce innovation
-🌍 São Paulo, Brazil
----
+# Hi, I'm Anderson 👋
 
-## 🎯 What I'm Doing
-
-**Founder of:**
-- **[TechSpeaking](https://github.com/andersunrise1/techspeaking)** - Learning English through tech audiobooks
-- **[Clothing Store](https://github.com/andersunrise1/clothing-store)** - Interactive outfit mixer for fashion e-commerce
-
-**Currently:** Building in public, seeking co-founder for TechSpeaking (Growth/Marketing role)
+Full-stack developer based in São Paulo, Brazil. I build complete products end to end — database, API, web, desktop and mobile — and ship them to production.
 
 ---
 
-## 💻 Stack
-Languages: JavaScript, TypeScript, Python
-Frontend: React, Next.js, Tailwind, Three.js
-Backend: Node.js, Express, PostgreSQL
-Tools: Git, Docker, Claude AI, Vercel
-Mindset: Product-focused, metrics-driven, execution-obsessed
+## Projects
+
+### 🎧 [TechSpeaking](https://github.com/andersunrise1/audiobooks-business) · [techspeaking.dev](https://www.techspeaking.dev)
+
+Learn technical English through audiobooks of real workplace scenarios (standups, code reviews, incident calls). Tap-to-translate transcripts, an AI tutor that quotes the chapter you're on, spaced-repetition flashcards, pronunciation practice.
+
+`Node.js` `Express` `PostgreSQL` `Redis` `React` `Vite` `Electron` `React Native / Expo` `Anthropic Claude` `Mercado Pago`
+
+- Monorepo with one API serving web, desktop and mobile clients
+- 380+ automated tests, integration suites against a real Postgres
+- Offline-first desktop client with a local sync queue
+- Live, with real payments
+
+### 💰 [Divisa](https://github.com/andersunrise1/controle-financeiro) · [divisa-sigma.vercel.app](https://divisa-sigma.vercel.app)
+
+Personal finance tracker: income/expense dashboards by month and year, category breakdowns, a grocery ("Mercado") tab with per-product price and quantity history. Web + mobile, light and dark themes.
+
+`Next.js` `TypeScript` `Tailwind` `Recharts` `SQLite` `React Native / Expo`
 
 ---
 
-## 📊 Current Focus
+## Stack
 
-| Project | Stage | Progress | Seeking |
-|---------|-------|----------|---------|
-| **TechSpeaking** | Pre-launch MVP | 🔄 Building | Co-founder + Early users |
-| **Clothing Store** | MVP | ✅ Functional | B2B partnerships |
-
----
-
-## 🤝 Let's Connect
-
-### **You're an Investor** 💰
-- 📧 Email me for pitch deck + metrics
-- 💬 Open to meetings & partnerships
-- 🎯 Raising for Series Pre-Seed (Q2 2025)
-
-### **You're a Developer** 👨‍💻
-- 🔗 Check my repos, contribute, fork
-- 💡 Feedback on code/product always welcome
-- 🚀 Open to collaboration
-
-### **You Want to Talk About Startups** 🎤
-- 🎙️ Available for podcasts & interviews
-- 🗣️ Speaking engagements (tech/entrepreneurship)
-- 📚 Happy to discuss: building in public, EdTech, e-commerce
-
-### **You're Looking for Early Access** 🔓
-- TechSpeaking beta: [Join here](your-link)
-- Clothing store: [Live demo](your-link)
-- Give feedback, become an early adopter
+**Backend:** Node.js, Express, Next.js API routes, PostgreSQL, SQLite, Redis
+**Frontend:** React, Next.js, Vite, Tailwind CSS
+**Mobile / Desktop:** React Native (Expo), Electron
+**Infra:** Railway, Vercel, Cloudflare, GitHub Actions
 
 ---
 
-## 📈 The Journey
+## Contact
 
-**2025:**
-- January: TechSpeaking MVP launch
-- Q1: Clothing Store B2B partnerships
-- Q2: First users paying
-- Q3: Scale or pivot based on data
-
-**Philosophy:** 
-- Ship > perfect
-- Users > theorizing
-- Data > opinions
-- Growth > vanity metrics
-
----
-
-## 🎓 Learning Path
-
-What I'm learning while building:
-
-- 📊 Founder psychology & decision-making
-- 🎯 Go-to-market strategies for EdTech
-- 💰 Fundraising & investor relations
-- 🤖 AI-native product development
-- 📈 Startup metrics (CAC, LTV, retention)
-
----
-
-## 🎨 Featured Projects
-Tech: React, Node.js, PostgreSQL, Web Audio API
-Status: Pre-launch MVP
-Seeking: Co-founder (Growth), Early adopters
-→ [Read full project](https://github.com/andersunrise1/techspeaking)
-
----
-
-### 👗 Clothing Store Outfit Mixer
-Interactive 3D outfit visualization for fashion e-commerce. Real outfits before buying.
-Tech: React, Three.js, Node.js, Stripe
-Status: MVP complete, testing
-Seeking: Fashion brand partnerships, B2B deals
-→ [Read full project](https://github.com/andersunrise1/clothing-store)
-
----
-
-## 📞 Ways to Reach Me
-
-| Channel | Link |
-|---------|------|
-| **Twitter** | [@andersunrise1](https://twitter.com/andersunrise1) |
-| **LinkedIn** | [Your Profile](https://linkedin.com/in/andersunrise1) |
-| **Email** | contact@ander.dev |
-| **Calendly** | [Book a call](your-calendly) |
-
----
-
-## 🙏 Thanks for Visiting!
-
-If TechSpeaking or Clothing Store resonates:
-- ⭐ Star the repo
-- 👀 Watch for updates
-- 💬 Share feedback
-- 🤝 Reach out to collaborate
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=andersunrise1&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersunrise1&layout=compact&theme=dark)
-
----
-
-## 🎯 2025 Goals
-
-- [ ] 100 users paying for TechSpeaking
-- [ ] 5 fashion brands using our outfit mixer
-- [ ] Close pre-seed round ($500k-1M)
-- [ ] 3 conference talks delivered
-- [ ] Hire first team member
-
----
-
-**Building in public. What's next?**
-
-Last updated: January 2025
-
-
-### 
-🎧 TechSpeaking
-Learn English by listening to tech audiobooks. For developers, by developers.
+📧 andersunrise1@gmail.com
